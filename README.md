@@ -1,1 +1,1 @@
-# Teacher-Management-System
+Developed a Teacher Management System in Java to manage teacher records efficiently, with features such as adding, updating, deleting, and searching teacher details supported by data validation. The application was built using OOP principles, Swing/AWT for the GUI, and file handling for data storage. Designed the user interface and implemented core functionalities to ensure seamless and effective record management.<img width="468" height="93" alt="image" src="https://github.com/user-attachments/assets/5840b68e-93e9-4dd1-8081-3e89bdb946f5" />
